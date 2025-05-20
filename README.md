@@ -29,15 +29,15 @@ I'm especially passionate about learning AI and using it to improve education, k
 
     Languages: JavaScript, TypeScript, HTML, CSS, SQL
 
-    Frameworks: React, NestJS, Express
+    Frameworks: React, NestJS, Express, Strapi
 
-    Databases: PostgreSQL
+    Databases: PostgreSQL, MySQL, MongoDB
 
     Tools: GitHub, Docker, Vercel, pgAdmin
 
     Design: Figma, Tailwind CSS
 
-    Learning Now: OpenAI tools, LangChain, and more AI technologies
+    Learning Now: OpenAI tools, and more AI technologies
 
 🌱 Lifelong Learner
 
